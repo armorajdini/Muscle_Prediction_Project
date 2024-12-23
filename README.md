@@ -71,8 +71,6 @@ Dieses Projekt verwendet ein maschinelles Lernmodell, um die Veränderung von Mu
 
 ---
 
----
-
 ## Kontakt
 
 - **Name**: Armor Ajdini  
